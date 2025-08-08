@@ -14,7 +14,7 @@ copier = "^9.9.0"
 [tool.poetry.group.dev.dependencies]
 pytest = "^8.3.3"
 pytest-xdist = "^3.8.0"
-ruff = "^0.12.7"
+ruff = "^0.12.8"
 pytest-cov = "^6.2.1"
 bandit = "^1.8.6"
 
